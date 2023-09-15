@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"tugboat/defs"
+	"github.com/dsnezhkov/tugboat/defs"
 )
 
 func (component *ComponentTravel2) invoke(msg defs.Message, handoffTo []string) bool {

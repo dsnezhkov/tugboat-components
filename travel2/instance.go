@@ -5,9 +5,9 @@ import (
 	"sync"
 	"time"
 
-	"tugboat/components/common"
-	"tugboat/defs"
-	"tugboat/logger"
+	"github.com/dsnezhkov/tugboat/components/common"
+	"github.com/dsnezhkov/tugboat/defs"
+	"github.com/dsnezhkov/tugboat/logger"
 )
 
 func init() {
